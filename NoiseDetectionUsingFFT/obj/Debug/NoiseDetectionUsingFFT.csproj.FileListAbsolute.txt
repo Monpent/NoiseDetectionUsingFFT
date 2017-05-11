@@ -1,0 +1,14 @@
+c:\users\mxp\documents\visual studio 2015\Projects\NoiseDetectionUsingFFT\NoiseDetectionUsingFFT\bin\Debug\NoiseDetectionUsingFFT.exe.config
+c:\users\mxp\documents\visual studio 2015\Projects\NoiseDetectionUsingFFT\NoiseDetectionUsingFFT\bin\Debug\NoiseDetectionUsingFFT.exe
+c:\users\mxp\documents\visual studio 2015\Projects\NoiseDetectionUsingFFT\NoiseDetectionUsingFFT\bin\Debug\NoiseDetectionUsingFFT.pdb
+c:\users\mxp\documents\visual studio 2015\Projects\NoiseDetectionUsingFFT\NoiseDetectionUsingFFT\obj\Debug\NoiseDetectionUsingFFT.csprojResolveAssemblyReference.cache
+c:\users\mxp\documents\visual studio 2015\Projects\NoiseDetectionUsingFFT\NoiseDetectionUsingFFT\obj\Debug\MainWindow.g.cs
+c:\users\mxp\documents\visual studio 2015\Projects\NoiseDetectionUsingFFT\NoiseDetectionUsingFFT\obj\Debug\App.g.cs
+c:\users\mxp\documents\visual studio 2015\Projects\NoiseDetectionUsingFFT\NoiseDetectionUsingFFT\obj\Debug\NoiseDetectionUsingFFT_MarkupCompile.cache
+c:\users\mxp\documents\visual studio 2015\Projects\NoiseDetectionUsingFFT\NoiseDetectionUsingFFT\obj\Debug\NoiseDetectionUsingFFT_MarkupCompile.lref
+c:\users\mxp\documents\visual studio 2015\Projects\NoiseDetectionUsingFFT\NoiseDetectionUsingFFT\obj\Debug\MainWindow.baml
+c:\users\mxp\documents\visual studio 2015\Projects\NoiseDetectionUsingFFT\NoiseDetectionUsingFFT\obj\Debug\NoiseDetectionUsingFFT.g.resources
+c:\users\mxp\documents\visual studio 2015\Projects\NoiseDetectionUsingFFT\NoiseDetectionUsingFFT\obj\Debug\NoiseDetectionUsingFFT.Properties.Resources.resources
+c:\users\mxp\documents\visual studio 2015\Projects\NoiseDetectionUsingFFT\NoiseDetectionUsingFFT\obj\Debug\NoiseDetectionUsingFFT.csproj.GenerateResource.Cache
+c:\users\mxp\documents\visual studio 2015\Projects\NoiseDetectionUsingFFT\NoiseDetectionUsingFFT\obj\Debug\NoiseDetectionUsingFFT.exe
+c:\users\mxp\documents\visual studio 2015\Projects\NoiseDetectionUsingFFT\NoiseDetectionUsingFFT\obj\Debug\NoiseDetectionUsingFFT.pdb
